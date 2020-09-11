@@ -3,3 +3,5 @@ A Cross Platform Mobile application built using React Native. It's a platform fo
 
 The application presentation can be found here https://docs.google.com/presentation/d/1efxGrOW2MeWa4NLyddj9W10O50NSQiFBo4qwrKsOOTQ/edit?usp=sharing
 
+Watch the application demo here https://docs.google.com/presentation/d/1efxGrOW2MeWa4NLyddj9W10O50NSQiFBo4qwrKsOOTQ/edit?usp=sharing
+
